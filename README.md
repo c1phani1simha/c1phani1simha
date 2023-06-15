@@ -1,9 +1,9 @@
-Hello, I am Pranay Gupta
+Hello, I am Phani Simha
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 ♂️ Pronouns (He/His/Him)
-📍 I live in Ongole, India
+* 📍 I live in Ongole, India
 I am currently working with technologies based on Javascript. Technologies such as ReactJS, NextJS, NodeJS.
 I usually work with design systems and ui-component based react projects and make complex and beautiful components.
 I do Product Design, Frontend Development, UI Engineering, Design Systems Engineering and Design related stuff.
