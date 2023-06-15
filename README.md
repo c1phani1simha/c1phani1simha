@@ -24,8 +24,8 @@
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 My work experience
-🔴 Worked as a Frontend Developer Intern at SOIL.
-🔴 Worked as a Curriculum Developer Intern at TeamEverest.
+*  Worked as a Frontend Developer Intern at SOIL.
+*  Worked as a Curriculum Developer Intern at TeamEverest.
 
 
 <!---
