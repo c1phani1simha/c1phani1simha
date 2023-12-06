@@ -3,8 +3,9 @@
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 ♂️ Pronouns (He/His/Him)
-* 📍 I live in Ongole, India
+* 📍 I am from Ongole, Andhra Pradesh, India
 * Currently an UnderGrad at Indian Institute of Technology, Varanasi. (IIT-BHU).
+* Previously interend at SOIL (Hyderabad) and TeamEverest (Chennai).
 * I am currently working with technologies based on Javascript. Technologies such as ReactJS, NodeJS.
 * I usually work with design systems and ui-component based react projects and make complex and beautiful components.
 * I do Product Design, Frontend Development, UI Engineering, Design Systems Engineering and Design related stuff.
